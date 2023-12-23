@@ -1,1 +1,1 @@
-https://shopper-by-pukar.netlify.app
+https://shopper-website-react-js.vercel.app/
