@@ -1,0 +1,29 @@
+.newcomponent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 100px;
+   
+}
+
+.newcomponent h1{
+    color: #171717;
+    font-size: 10px;
+    font-weight: 600;
+}
+
+.newcomponent hr{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    background: #252525;
+
+}
+
+.collections{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-top: 50px;
+    gap: 30px;
+}
